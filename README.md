@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Damaris Castro 👋
 
 I'm a Full Stack Developer in training with a background in Content Strategy, Digital Marketing and Industrial Design.
 
