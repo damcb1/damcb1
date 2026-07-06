@@ -21,10 +21,10 @@ I'm currently working with:
 - ✅ **Testing:** JUnit & Mockito
 - 🎨 **UX/UI:** Creating intuitive and user-centered experiences
 - 🤝 **Methodologies:** Agile, Scrum & Kanban
-- 
+  
 ## 🧰 My Toolbox
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,postgres,git,github,postman,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,postgres,git,github,postman,figma,intellij,vscode" />
 </p>
 
 ---
