@@ -2,65 +2,61 @@
 
 I'm a Full Stack Developer in training with a background in Content Strategy, Digital Marketing and Industrial Design.
 
-After more than 10 years creating digital experiences through content, SEO and community, I decided to take the next step and learn how to build the products behind those experiences.
+For over 10 years, I've helped shape digital experiences through content, SEO and community, leading international editorial projects and cross-functional teams. Today, I'm taking the next step: building the products behind those experiences through code.
 
-As a naturally creative person, I discovered that code is much more than a technical skill—it's another way to solve problems, express ideas and create meaningful experiences.
+As a naturally creative person, I discovered that programming is much more than a technical skill—it's another way to solve problems, express ideas and create meaningful experiences.
 
-> *I believe code is not only a tool to build software, but also a way to create, learn and connect with people.*
+> *"I believe code is not only a tool to build software, but also a way to create, learn and connect with people."* ✨
 
-## 🚀 About me
-* 💻 Building full stack applications with JavaScript, React, Node.js, Java and Spring Boot.
-* 🗄️ Working with PostgreSQL, REST APIs and JSON.
-* 🧪 Writing tests with JUnit and Mockito.
-* 🎨 Passionate about UX/UI and creating intuitive digital experiences.
-* 🤝 Working with Agile methodologies such as Scrum and Kanban.
-* 🌱 Currently completing a Full Stack Development Bootcamp (April – September 2026).
+---
 
-## 🛠 Tech Stack
-**Languages**
-* JavaScript
-* Java
+## ⚙️ What I'm building
 
-**Frontend**
-* HTML5
-* CSS3
-* SASS
-* React
+I'm currently working with:
 
-**Backend**
-* Node.js
-* Express.js
-* Spring Boot
+- 💻 **Frontend:** HTML5, CSS3, SASS, JavaScript and React
+- ⚡ **Backend:** Node.js, Java and Spring Boot
+- 🗄️ **Databases:** PostgreSQL
+- 🔗 **APIs:** REST APIs & JSON
+- ✅ **Testing:** JUnit & Mockito
+- 🎨 **UX/UI:** Creating intuitive and user-centered experiences
+- 🤝 **Methodologies:** Agile, Scrum & Kanban
+- 
+## 🧰 My Toolbox
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,postgres,git,github,postman,figma,vscode" />
+</p>
 
-**Databases**
-* PostgreSQL
+---
 
-**Testing**
-* JUnit
-* Mockito
+## 🚀 Featured Projects
 
-**APIs**
-* REST APIs
-* JSON
+Here you'll find a mix of personal projects, bootcamp challenges and collaborative work that reflect my journey into software development.
 
-**Tools**
-* Git
-* GitHub
-* VS Code
-* Postman
-* Figma
+Each repository represents an opportunity to experiment, solve problems and continue growing as a developer.
 
-## 📂 Projects
-This repository showcases my journey as a developer, from bootcamp workshops and technical exercises to personal and collaborative projects.
+👉 Feel free to explore my repositories!
 
-Each project has helped me strengthen my problem-solving skills, improve my understanding of software development and continue growing as a Full Stack Developer.
+---
 
-## 🌟 Beyond the code
-With a background in content strategy and digital marketing, I enjoy combining technology, creativity and user-centered thinking to build meaningful digital experiences.
+## 🌱 What I'm exploring
+
+I'm continuously expanding my Full Stack skills while deepening my understanding of software architecture, clean code, testing and modern web development.
+
+I'm especially interested in building digital products that combine technology, creativity and thoughtful user experiences.
+
+---
+
+## ✨ Beyond the code
+
+I enjoy combining strategy, design and development to build products that are both useful and meaningful.
 
 I'm always curious, always learning and always looking for new challenges.
 
-## 📫 Let's connect
-Feel free to explore my repositories or connect with me on LinkedIn.
+---
 
-**Bridging creativity, content & code.✨**
+## 🤝 Let's connect
+
+💼 LinkedIn: [[https://linkedin.com/in/damariscastro](https://www.linkedin.com/in/damariscastro/)]
+
+### Bridging creativity, content & code. ✨
