@@ -24,7 +24,7 @@ I'm currently working with:
   
 ## 🧰 My Toolbox
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,postgres,git,github,postman,figma,intellij,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,java,spring,postgres,git,github,postman,figma,idea,vscode" />
 </p>
 
 ---
