@@ -23,7 +23,7 @@ Multi-company incident platform for holiday rentals: a back-office for 3 staff r
 - Built the shared design system for both apps (Sass/BEM, atomic design, dark mode), audited to WCAG 2.2 AA.
 - Fixed order-dependent integration tests by isolating the database per Spring test context.
 
-[Frontend](link) · [Backend](link)
+[Frontend](https://github.com/Net2rent-FemCoders/net2rent-frontend) · [Backend](https://github.com/Net2rent-FemCoders/net2rent-backend)
 
 ---
 
