@@ -1,7 +1,7 @@
 # Hi there, I'm Damaris Castro 👋
 
 **Full Stack Developer** — Java · Spring Boot · React · JavaScript · PostgreSQL
-📍 Barcelona | 🗣️ Spanish · English · Catalan
+📍 Barcelona | Spanish · English · Catalan
 
 I spent 10+ years leading content, community and SEO for an international digital platform, working alongside engineering and product teams across Europe, LATAM and the Middle East.
 
@@ -38,7 +38,7 @@ Mobile-first app that turns recipes from blogs and social media into structured,
 - Designed the LLM layer that normalizes ingredients into `{qty, unit, name}`, enabling filters by ingredient, time and cuisine.
 - Design system with semantic tokens, dark mode, AA contrast and ≥44px touch targets.
 
-[Code](link)
+[Frontend](https://github.com/damcb1/pinch-frontend) · [Backend](https://github.com/damcb1/pinch-backend)
 
 ---
 
@@ -60,11 +60,11 @@ Editorial platform with a role-based workflow: authors draft and submit articles
 
 **Stellar Split** — HackMeridian, Lisbon · Oct 2026
 My first blockchain hackathon: shared expenses and cross-border stablecoin payments (USDC, EURC), working end-to-end on Stellar testnet in 27 hours. Team of 5; I led product design and UX.
-`React` `Tailwind` `Node.js` `Supabase` `Stellar Soroban` · [Live demo](link)
+`React` `Tailwind` `Node.js` `Supabase` `Stellar Soroban` · [Live demo](https://stellar-split-sooty.vercel.app) · [Product site](https://stellar-split-site.vercel.app)
 
 **Thnky** — HackBarna AI Summit, Barcelona · Sep 2026
 Selected from 500+ applicants. Daily brain-workout app for developers, with AI-generated challenges and AI grading. Team of 2.
-`Java` `Spring Boot` `Nebius AI API`
+`Java` `Spring Boot` `Nebius AI API` [Code](https://github.com/damcb1/Thnky_app)
 
 ---
 
