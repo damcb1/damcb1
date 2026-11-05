@@ -52,7 +52,7 @@ Editorial platform with a role-based workflow: authors draft and submit articles
 - Built the role-based permissions (author/manager) and the article state machine: DRAFT → IN_REVIEW → PUBLISHED.
 - 87 tests (Vitest + React Testing Library) covering permissions, auth context, services and routing.
 
-[Frontend](https://github.com/damcb1/mundo-tech-frontend) · [Backend](https://github.com/damcb1/mundo-tech-backend)
+[Frontend](https://github.com/Periodico-Mundo-Tech-Team-3/mundo-tech-frontend) · [Backend](https://github.com/Periodico-Mundo-Tech-Team-3/mundo-tech-backend)
 
 ---
 
