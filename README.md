@@ -77,13 +77,13 @@ Selected from 500+ applicants. Daily brain-workout app for developers, with AI-g
 
 ## ⚙️ Stack
 
-**Backend:** Java · Spring Boot · Node.js · REST APIs
-**Frontend:** React · JavaScript (ES6+) · Vite · Sass · Tailwind · HTML5 · CSS3
-**Databases:** PostgreSQL · SQL · Supabase
-**Security:** JWT · role-based access control · rate limiting
-**Testing:** Vitest · React Testing Library · JUnit · Mockito
-**Tools:** Git · GitHub · Jira · Postman · Figma · Agile/Scrum
-**AI-assisted development:** Claude · Claude Code
+- **Backend:** Java · Spring Boot · Node.js · REST APIs
+- **Frontend:** React · JavaScript (ES6+) · Vite · Sass · Tailwind · HTML5 · CSS3
+- **Databases:** PostgreSQL · SQL · Supabase
+- **Security:** JWT · role-based access control · rate limiting
+- **Testing:** Vitest · React Testing Library · JUnit · Mockito
+- **Tools:** Git · GitHub · Jira · Postman · Figma · Agile/Scrum
+- **AI-assisted development:** Claude · Claude Code
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,nodejs,postgres,supabase,sass,tailwind,html,css,git,github,postman,figma,idea,vscode" />
